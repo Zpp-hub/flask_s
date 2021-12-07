@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc05009a-bd30-4a06-b442-3e63df69af90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/flask_shop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cate.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/category/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/category/view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/goods/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/goods/view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/menu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/menu/view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/order/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/order/view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/role/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/role/view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/static/img/0165d63a3a60cad7200a8748c2e27aee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/static/img/137d431e562ff500b8a3e313e3e81867.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/static/img/9e317d633f658a00de1d2ccae057e8ba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/static/img/a9eaf06f036f4c3be4ad19ea89f433f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/static/img/dbc499e41e27e230b374cade701ec16b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/static/img/dde0759ee6c5711e60d9f155bd4531f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/test_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/user/view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/utils/message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_shop/utils/tokens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/ad9fc8de057d_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21wGKez2ziIGIzeYil6Zc6nv3VQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc05009a-bd30-4a06-b442-3e63df69af90" name="Default Changelist" comment="" />
+      <created>1638844673166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638844673166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="174" key="FileChooserDialogImpl" timestamp="1638844683318">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864/-1920.-65.1920.1080@0.0.1536.864" timestamp="1638844683318" />
+    <state x="361" y="166" key="Vcs.Push.Dialog.v2" timestamp="1638844968768">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.864/-1920.-65.1920.1080@0.0.1536.864" timestamp="1638844968768" />
+  </component>
+</project>
